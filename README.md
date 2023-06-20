@@ -1,1 +1,1 @@
-# elasticity_thorugh_ucm_regressison
+# elasticity_through_ucm_regressison
